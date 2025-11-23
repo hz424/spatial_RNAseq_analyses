@@ -1,6 +1,7 @@
-# Analytical Code for Spatial Transcriptomics Analysis
+Analytical Code for Spatial Transcriptomics Analysis
 
-The code in this repository was used to generate analyses in the following research manuscript:
-[Zhou, H., Negron, O., Abbondante, S., Marshall, M., Jones, B., Ong, E., ... & Gadjeva, M. (2024). Spatial transcriptomics identifies novel P. aeruginosa virulence factors. bioRxiv.](https://www.biorxiv.org/content/10.1101/2024.06.20.599896v2)
+This repository contains the analytical code used to perform spatial transcriptomics analyses presented in the Dual Spatial Transcriptomics Study.
+All scripts and notebooks here were developed to process, visualize, and interpret spatially resolved gene expression data.
 
-contact: hzhou1@modernatx.com
+For questions, collaborations, or requests for additional information, please contact:
+Hao Zhou — hao.zhou@ku.ac.ae
